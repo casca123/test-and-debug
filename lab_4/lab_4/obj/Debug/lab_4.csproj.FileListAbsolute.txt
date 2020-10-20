@@ -1,0 +1,6 @@
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Leo\Учеба\5 семестра\тест и отладка\лабы\lab_4\lab_4\obj\Debug\lab_4.pdb
